@@ -1,6 +1,6 @@
 # Webpack
 
-It is a small project designed to understand the Webpack structure.
+It is designed to understand the Webpack structure.
 
 **What is the Purpose and What Are We Doing?**
 
